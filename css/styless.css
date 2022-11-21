@@ -233,6 +233,7 @@ body {
 .button-style1,.button-style2{
 	position:absolute;
 	top: 85%;
+	
 	opacity:1;
 	z-index:100;
 }
@@ -326,6 +327,7 @@ body {
 a.lk1:hover,a.lk2:hover {
 	border:2px solid #96e1a8;
 	background-color:#fff;
+	color:#ffffff;
 	transition:all 0.5s;
 }
 .link1:hover,.link2:hover {
@@ -333,4 +335,3 @@ a.lk1:hover,a.lk2:hover {
 	background-color:#fff;
 	transition:all 0.8s;
 }
-
