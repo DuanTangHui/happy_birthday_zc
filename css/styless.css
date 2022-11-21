@@ -317,11 +317,11 @@ body {
 	background: #96e1a8;
 	transition:all 0.8s;
 }
-/* .bt1,.bt2 {
+.bt1,.bt2 {
 	position:relative;
 	top:22%;
 	vertical-align:middle;
-} */
+}
 
 a.lk1:hover,a.lk2:hover {
 	border:2px solid #96e1a8;
@@ -329,10 +329,10 @@ a.lk1:hover,a.lk2:hover {
 	color:#ffffff;
 	transition:all 0.5s;
 }
-/* .link1:hover,.link2:hover {
+.link1:hover,.link2:hover {
 	border:2px solid #96e1a8;
 	background-color:#fff;
 	background-color:rgba(255,255,255,0,2);
 	transition:all 0.8s;
 }
- */
+
